@@ -1,8 +1,0 @@
-{
-  "desc": "Redis-backed sessions for jester",
-  "license": "MIT",
-  "name": "redissessions",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/ithkuil/redissessions/",
-  "version": "master"
-}
