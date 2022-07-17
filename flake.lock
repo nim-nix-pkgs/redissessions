@@ -173,11 +173,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657154261,
-        "narHash": "sha256-mx4xZAGU5U8nqAYwFOYNFff/cn6m+n9We2pDccz4Pbw=",
+        "lastModified": 1658019330,
+        "narHash": "sha256-f76RfYbKgnRAdlVPNx35moqsN9s1TSGyQZ0wPEEoM8g=",
         "owner": "nim-nix-pkgs",
         "repo": "redissessions",
-        "rev": "f80260809e508da7304da6c3a430c37123384840",
+        "rev": "c77a14f3e16454e6ef97cbfdbcf40d35d4f4f67b",
         "type": "github"
       },
       "original": {
